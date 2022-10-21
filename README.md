@@ -8,4 +8,4 @@
 
 - так я узнал оценки: SELECT * FROM grades, users WHERE grades.user_id=users.user_id... (если что это sql)
 
-[wordpress(now empty)] cl103392361.wordpress.com
+[wordpress(empty)](cl103392361.wordpress.com)
