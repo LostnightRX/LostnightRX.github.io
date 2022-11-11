@@ -20,14 +20,21 @@ sql команды:
 
 формулы на LaTeX:
  
- $$ tg(\alpha + \beta) = \frac{tg\alpha + tg\beta}{1 - tg\alpha \cdot tg\beta} $$   
+$$ tg(\alpha + \beta) = \frac{tg\alpha + tg\beta}{1 - tg\alpha \cdot tg\beta} $$    
+ 
  
                                                              ↑ формула тангенса суммы
  
- $$ (A\wedge_{}^{}B)\vee_{}^{}C=(A\vee_{}^{}C)\wedge_{}^{}(B\vee_{}^{}C) $$  
+ 
+ 
+$$ (A\wedge_{}^{}B)\vee_{}^{}C=(A\vee_{}^{}C)\wedge_{}^{}(B\vee_{}^{}C) $$  
+ 
+ 
  
                                                    ↑ формула одного из законов булевой алгебры
-  $$  \mathrm{\overline{E} _{1}^{2}} = \sqrt{\frac{F\mathrm{a ^{x - 1}}}{\left( x - 1 \right) \cdot x}} + \mathrm{a _ {1} ^ {\frac{1}{3}}} + \mathrm{\beta _ {2}^ {\frac{2}{3}}}  $$
+ 
+ 
+$$  \mathrm{\overline{E} _{1}^{2}} = \sqrt{\frac{F\mathrm{a ^{x - 1}}}{\left( x - 1 \right) \cdot x}} + \mathrm{a _ {1} ^ {\frac{1}{3}}} + \mathrm{\beta _ {2}^ {\frac{2}{3}}}  $$
   
                                                             ↑ физическая формула
   
