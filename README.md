@@ -27,4 +27,7 @@ sql команды:
  $$ (A\wedge_{}^{}B)\vee_{}^{}C=(A\vee_{}^{}C)\wedge_{}^{}(B\vee_{}^{}C) $$  
  
                                                    ↑ формула одного из законов булевой алгебры
+  $$  \mathrm{\overline{E} _{1}^{2}} = \sqrt{\frac{F\mathrm{a ^{x - 1}}}{\left( x - 1 \right) \cdot x}} + \mathrm{a _ {1} ^ {\frac{1}{3}}} + \mathrm{\beta _ {2}^ {\frac{2}{3}}}  $$
+  
+                                                            ↑ физическая формула
   
