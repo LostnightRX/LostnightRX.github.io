@@ -18,6 +18,13 @@ sql команды:
 
 [wordpress(empty)](cl103392361.wordpress.com)
 
-формулы на LaTeX
-> $$ tg(\alpha + \beta) = \frac{tg\alpha + tg\beta}{1 - tg\alpha \cdot tg\beta} $$ ---► формула тангенса суммы
-> $$ (A\wedge_{}^{}B)\vee_{}^{}C=(A\vee_{}^{}C)\wedge_{}^{}(B\vee_{}^{}C) $$  ---► формула одного из законов булевой алгебры
+формулы на LaTeX:
+ 
+ $$ tg(\alpha + \beta) = \frac{tg\alpha + tg\beta}{1 - tg\alpha \cdot tg\beta} $$   
+ 
+                                                             ↑ формула тангенса суммы
+ 
+ $$ (A\wedge_{}^{}B)\vee_{}^{}C=(A\vee_{}^{}C)\wedge_{}^{}(B\vee_{}^{}C) $$  
+ 
+                                                   ↑ формула одного из законов булевой алгебры
+  
