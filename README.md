@@ -31,3 +31,5 @@ sql команды:
   
                                                             ↑ физическая формула
   
+  ![Снимок](https://user-images.githubusercontent.com/95572536/201264342-d4927c93-b772-42c7-bb2c-2011c39a3aef.PNG)
+
