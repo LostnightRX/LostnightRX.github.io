@@ -41,3 +41,5 @@ $$  \mathrm{\overline{E} _{1}^{2}} = \sqrt{\frac{F\mathrm{a ^{x - 1}}}{\left( x 
   ![Снимок](https://user-images.githubusercontent.com/95572536/201264342-d4927c93-b772-42c7-bb2c-2011c39a3aef.PNG)
 
 [new interactive page](https://view.genial.ly/6371ae2c009fba0018811c02/interactive-image-interactive-image)
+
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVPCLyQXc=/?moveToViewport=508,115,1312,662&embedId=990137440292" frameborder="0" scrolling="no" allowfullscreen></iframe>
