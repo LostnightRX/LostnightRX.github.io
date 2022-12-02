@@ -43,14 +43,3 @@ $$  \mathrm{\overline{E} _{1}^{2}} = \sqrt{\frac{F\mathrm{a ^{x - 1}}}{\left( x 
 [new interactive page](https://view.genial.ly/6371ae2c009fba0018811c02/interactive-image-interactive-image)
 
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVPCLyQXc=/?moveToViewport=508,115,1312,662&embedId=990137440292" frameborder="0" scrolling="no" allowfullscreen></iframe>
-
-~~~mermaid
-
-flowchart LR
-
-A[10] -->|переводной| B(11)
-B --> C{ЕГЭ}
-C -->|80| D[ТПУ]
-C -->|100| E[МГУ]
-
-~~~
